@@ -10,8 +10,8 @@ mobile applications and scalable software solutions.
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&label=FOLLOWERS" />
+  <img src="https://komarev.com/ghpvc/?username=mackymelgar&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/mackymelgar?style=flat-square&label=FOLLOWERS" />
 </p>
 
 </div>

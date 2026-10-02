@@ -184,10 +184,10 @@ AI-assisted student support.
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+src="https://github-readme-stats.vercel.app/api?username=mackymelgar&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackymelgar&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -196,7 +196,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 <div align="center">
 
 <img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=mackymelgar&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -268,7 +268,7 @@ This includes work involving:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mackymelgar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
